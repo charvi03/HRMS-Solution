@@ -1,2 +1,1 @@
-# PSQUARE_ASSIGNMENT
-PSQUARE ASSIGNMENT
+# HRMS solution : an hr management system
